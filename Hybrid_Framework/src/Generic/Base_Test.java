@@ -24,6 +24,6 @@ public void Openapp() {
 @AfterMethod
 public void closeapp() {
 	
-driver.close();
+//driver.close();
 }
 }
